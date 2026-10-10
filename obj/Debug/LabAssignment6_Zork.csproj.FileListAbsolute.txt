@@ -6,3 +6,10 @@ C:\Users\ja154932\source\repos\LabAssignment6_Zork\obj\Debug\LabAssignment6_Zork
 C:\Users\ja154932\source\repos\LabAssignment6_Zork\obj\Debug\LabAssignment6_Zork.exe
 C:\Users\ja154932\source\repos\LabAssignment6_Zork\obj\Debug\LabAssignment6_Zork.pdb
 C:\Users\ja154932\source\repos\LabAssignment6_Zork\obj\Debug\LabAssignment6_Zork.exe.config
+D:\Unity\Lab6GTaP\bin\Debug\LabAssignment6_Zork.exe.config
+D:\Unity\Lab6GTaP\bin\Debug\LabAssignment6_Zork.exe
+D:\Unity\Lab6GTaP\bin\Debug\LabAssignment6_Zork.pdb
+D:\Unity\Lab6GTaP\obj\Debug\LabAssignment6_Zork.csproj.AssemblyReference.cache
+D:\Unity\Lab6GTaP\obj\Debug\LabAssignment6_Zork.csproj.CoreCompileInputs.cache
+D:\Unity\Lab6GTaP\obj\Debug\LabAssignment6_Zork.exe
+D:\Unity\Lab6GTaP\obj\Debug\LabAssignment6_Zork.pdb
